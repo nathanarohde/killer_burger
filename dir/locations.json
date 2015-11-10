@@ -1,0 +1,51 @@
+{"locations":[
+	{  "location":"Hollywood",
+		"address" : "4644 NE Sandy (47th and Sandy)",
+		"phone" : "971-544-7521",
+		"schedule": "Monday-Saturday 11:00am-10:00pm\r\nSunday Closed",
+		"image": "",
+		"special": ""
+	},
+	{  "location":"Downtown PDX",
+		"address" : "510 SW 3rd Ave (& Washington)",
+		"phone" : "503-946-8946",
+		"schedule": "Monday-Thursday 11:00am-9:00pm\r\nFriday & Saturday 11:00am-Midnight\r\nSunday Closed",
+		"image": "",
+		"special": ""
+	},
+	{  "location":"Moda Center",
+		"address" : "A5 Entry",
+		"phone" : "Open for Blazer games and select events",
+		"schedule": "",
+		"image": "",
+		"special": ""
+	},
+	{  "location":"Sellwood",
+		"address" : "8728 SE 17th (and SE Linn)",
+		"phone" : "503-841-5906",
+		"schedule": "Monday-Thursday 11:00am-9:00pm\r\nFriday & Saturday 11:00am-10:00pm\r\nSunday Closed",
+		"image": "",
+		"special": "FULL BAR Happy Hour- drink specials- 3:00-6:00"
+	},
+	{  "location":"Bingen",
+		"address" : "216 W Steuben Bingen, WA\r\n(Across the Columbia From Hood River)",
+		"phone" : "509-637-2510",
+		"schedule": "Monday-Saturday 11:00-8:00\r\nSunday Closed",
+		"image": "",
+		"special": ""
+	},
+	{  "location":"Vancouver",
+		"address" : "1525 SE 164th, WA",
+		"phone" : "360-836-5274",
+		"schedule": "Monday-Thursday 11:00-9:00\r\nFriday-Saturday 11:00-10:00\r\nSunday Closed",
+		"image": "",
+		"special": ""
+	},
+	{  "location":"Eugene",
+		"address" : "50 W Broadway\r\nEugene, OR 97401",
+		"phone" : "541-636-4731",
+		"schedule": "Monday-Thursday 11:00-10:00\r\nFriday-Saturday 11:00-2:00am\r\nSunday Closed",
+		"image": "",
+		"special": ""
+	}
+]}

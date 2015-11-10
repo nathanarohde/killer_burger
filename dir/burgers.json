@@ -1,0 +1,58 @@
+{"burgers": [
+	{ "name" : "PEANUT-BUTTER-PICKLE-BACON",
+	  "description" : "Sweet and Savory, Bacon, Smokey House Sauce, Mayo, Grilled Onion, & Pickle",
+	  "price" : "$8.45"	
+	},
+	{ "name" : "FUN GUY",
+	  "description" : "Mushroom and Melted Swiss, Bacon, Smokey House Sauce, Grilled Onion, & Pickle",
+	  "price" : "$8.45"	
+	},
+	{ "name" : "ROLL YOUR OWN",
+	  "description" : "Your Own Way (Add $1.00 for ham or egg)",
+	  "price" : "$8.45"
+	},
+	{ "name" : "KILLER BURGER",
+	  "description" : "Bacon, Cheese, Lettuce, Tomato, Smokey House Sauce, Grilled Onion, & Pickle",
+	  "price" : "$8.45"
+	},
+	{ "name" : "OLD SCHOOL",
+	  "description" : "Mayo, Mustard, Raw Onion, Cheddar, Bacon, more Mayo & Mustard",
+	  "price" : "$8.45"	
+	},
+	{ "name" : "JOSE MENDOZA",
+	  "description" : "Roasted Green Chilies and Jack Cheese, Bacon, Smokey House Sauce, Grilled Onion, & Pickle",
+	  "price" : "$8.95"	
+	},
+	{ "name" : "TEEMAH",
+	  "description" : "Melted Bleu Cheese, Bacon, Smokey House Sauce, Grilled Onion, & Pickle",
+	  "price" : "$8.95"	
+	},
+	{ "name" : "BARNYARD",
+	  "description" : "Ham, Egg, Bacon, Cheese, Lettuce, Tomato, Smokey House Sauce, Grilled Onion, & Pickle",
+	  "price" : "$10.95"	
+	},
+	{ "name" : "EPIC",
+	  "description" : "Pulled Pork, Bacon, Texas Sweet Slaw, Monterey Jack, Grilled Onion, Bacon, BBQ sauce, House Sauce",
+	  "price" : "$10.95"	
+	},
+	{ "name" : "BLACK MOLLY",
+	  "description" : "Smokey House Sauce, Grilled Onion, Philly Steak, Provolone, Brined Green Chilies, Mayo, Bacon",
+	  "price" : "$10.95"	
+	},
+	{ "name" : " \\“GO METRO\\” ",
+	  "description" : "Substitute a Garden Patty on any of our burgers (Do you still want the bacon?)",
+	  "price" : "ADD $1.00"
+	},
+	{ "name" : "MAKE IT A \\“FATTY\\” ",
+	  "description" : "Add a Second beef patty",
+	  "price" : "ADD $2.00"	
+	},
+	{ "name" : "KIDS KILLER BASKET",
+	  "description" : "Half size burger with Fries, Smokey House Sauce, Grilled Onion, Cheese",
+	  "price" : "$4.95"
+	},
+	{ "name" : " \\“Girlie\\” ",
+	  "description" : "Size (Not Available on Epic, Black Molly, or Metro Burgers)",
+	  "price" : "$5.95"
+	}
+]}
