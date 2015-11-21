@@ -4,15 +4,19 @@
 		<title>Killer Burger</title>
 		<link href="css/styles.css" rel="stylesheet">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.js"></script>
-	    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-resource.min.js">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.js"></script>
+	    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-resource.min.js">
 	    </script>
-	    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.min.js">
+	    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js">
+	    </script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.js">
 	    </script>
 		<script src='js/app.js'></script>
+		<script src='js/controllers/indexController.js'></script>
+		</script>
 	</head>
 	<body>
-		<div ng-app="KillerBurger" ng-controller="indexController">
+		<div data-ng-app="KillerBurger" data-ng-controller="IndexController">
 			<div ng-repeat="burger in burgers">
 				{{burger.name}}
 			</div>

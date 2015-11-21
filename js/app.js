@@ -1,4 +1,1 @@
-(function() {
-var app = angular.module("KillerBurger", []);
-app.controller("indexController"); 
-});
+var app = angular.module("KillerBurger", ['ngRoute']);
