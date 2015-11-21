@@ -1,16 +1,22 @@
 app.controller("IndexController", function($scope, $http) {
- $scope.numbers = [];
-    $scope.counter = 0;
-    $scope.loadMore = function () {
-      for (var i = 0; i < 2; i++) {
-          $scope.numbers.push(++$scope.counter);
-      };
-    };
-    $scope.loadMore();
-    $http.get('dir/burgers.json').success(function(result){
-        $scope.burgers = result.burgers;
-      });
-  });
+$http.get('dir/burgers.json').success(function(result){
+	    $scope.burgers = result.burgers;
+	});
+});
+   // $scope.numbers = [];
+ //    $scope.counter = 0;
+ //    $scope.loadMore = function () {
+ //      for (var i = 0; i < 2; i++) {
+ //          $scope.numbers.push(++$scope.counter);
+ //      };
+ //    };
+    // $scope.loadMore();
+    
+
+// app.controller("IndexController", fuction IndexController($scope,burgersService){
+// $scope.burgers = burgersService.loadMore();
+// $scope.burgersService = burgersService;
+// });
 // attempt2
 // app.controller("IndexController",['$scope','burgersService', function ($scope, burgersService) {
 // 	var $scope.success = false,
